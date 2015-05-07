@@ -1,0 +1,19 @@
+{
+  "name": "smartapinodejs",
+  "version": "0.0.1",
+  "description": "Library that can connect on SMART Platform",
+  "main": "index.js",
+  "author": "José Wilker",
+  "license": "MIT",
+  "dependencies": [{
+    "fs": "latest",
+    "http": "latest"
+  }],
+  "maintainers": [
+    {
+      "name": "José Wilker",
+      "email": "jose.wilker@smartapps.com.br"
+    }
+  ],
+  "readme": "ERROR: No README data found!"
+}
